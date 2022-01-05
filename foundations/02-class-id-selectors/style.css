@@ -1,0 +1,19 @@
+p {
+  background-color: #ffa8b5;
+  font-family: Verdana, sans-serif;
+}
+
+.div1 {
+  color: blue;
+  font-size: 36px;
+}
+
+.p2 {
+  font-size: 24px;
+}
+
+.div2 {
+  background-color: #cfe7cb;
+  font-size: 24px;
+  font-weight: bold;
+}
